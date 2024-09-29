@@ -1,2 +1,4 @@
-# test-ar-cypress-framework-main
-test AR cypress framework main
+# AR_Cypress_Framework
+
+
+Cypress Automation framework from Scratch
